@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 雷震东
 
 You can use the [editor on GitHub](https://github.com/Lei-ZhenDong/leizhendong.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
