@@ -1,4 +1,6 @@
-## 雷震东
+Zhendong Lei （雷震东）
+
+I am a researcher in [Huawei Taylor Lab](https://www.tcs-lab.com/) . I am also the project leader for the TAYLOR solver project. 
 
 You can use the [editor on GitHub](https://github.com/Lei-ZhenDong/leizhendong.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
