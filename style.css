@@ -1,0 +1,164 @@
+body {
+    font-size: 12px;
+    line-height: 1.5em;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    color: #666;
+    }
+  
+  /* Positioning */
+  div#MainCopy {
+    padding: 0px 25px;
+    }
+  
+  img {
+    float: left;
+    /* width: 160px;*/
+    /*padding: 10px;*/
+    background-color: #ccc;
+    border: 1px solid #999;
+    margin: 0 15px 10px 0;
+    }
+  
+  /* headings */
+  h1, h2, h3 {
+    font-family: Georgia, Times, serif;
+    /* font-style: italic; */
+    font-weight: normal;
+    color: #666;
+    }
+  
+  h1 {
+    font-size: 40px;
+    margin-left: 20px;
+    line-height: 0.6em;
+    margin-bottom: 0;
+    }
+  
+  h2 {
+    font-size: 22px;
+    line-height: 1em;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 8px;
+    clear: both;
+    }
+  
+  h3 {
+    font-size: 18px;
+    line-height: 1em;
+    padding-bottom: 2px;
+    margin-bottom: 8px;
+    clear: both;
+    }
+  
+  
+  /* Menu style */
+  #Menu {
+    text-align: right;
+    width: auto;
+    padding-bottom: 4px;
+    border-bottom: 1px solid #ccc;
+    /* padding-right: 40px; */
+    }
+  
+  #Menu ul {
+    margin: 0;
+    padding: 0 0;
+    }
+  
+  #Menu li {
+    margin: 0;
+    padding: 0; 
+    display: inline;
+    list-style-type: none;
+    }
+  
+  #Menu a:link, #Menu a:visited {
+    font-size: 10px;
+    line-height: 1.4em;
+    margin: 0 10px 4px 10px;
+    text-decoration: none;
+    color: #999;
+    }
+  
+  #Menu a.active:link, #Menu a.active:visited, #Menu a:hover {
+    border-bottom: 4px solid #555;
+    padding-bottom: 2px;
+    background: #fff;
+    color: #555;
+    /* IE5 doesn't allow us to put a border
+       under the link, so use an underline.. */
+    text-decoration: underline;
+    voice-family: "\"}\""; 
+    voice-family:inherit;
+    /* ...and don't underline the link in 
+       other browsers */
+    text-decoration: none;
+    }
+  
+  #Menu a:hover {
+    color: #555;
+    }
+  
+  /* Formatting */
+  div#MainCopy p {
+    margin-top: 0px;
+    margin-bottom: 1em;
+    }
+  #netstat img{
+  float: left;    
+    width: 1px;
+    padding: 0px;
+    height: 1px;
+    background-color: #ccc;
+    border: 0px solid #999;
+    margin: 0 15px 10px 0;
+  }
+  #pictures img{
+    width: 788px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:center;
+    clear:both;
+  }
+           
+  
+  div#Footer {
+    text-align: center;
+    margin: 20px 20px 0 20px;
+    border-top: 1px solid #ccc;
+    padding-top: 4px;
+    }
+  
+  div#Footer p {
+    font-style: italic;
+    color: #999;
+    }
+  
+  /* Colors */
+  a {
+    color: #2a5790;
+    }
+  
+  a:visited {
+    color: #333;
+    }
+  
+  /* List buttons */
+  li.ps {
+    list-style-image: url(images/ps-s.gif);
+    padding-left: 3px;
+    }
+  
+  li.pdf {
+    list-style-image: url(images/pdf-s.gif);
+    padding-left: 3px;
+    }
+  
+  /* Publications */
+  span.pubTitle {
+    font-weight: bold;
+    }
+  span.pubEvent {
+    font-style: italic;
+    }
